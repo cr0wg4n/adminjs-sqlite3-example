@@ -1,0 +1,21 @@
+{
+  "name": "admin-js-sqlite3-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cr0wg4n/admin-js-sqlite3-boilerplate.git",
+  "author": "Mauricio Matias",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@adminjs/express": "^4.1.0",
+    "@adminjs/sequelize": "^2.1.5",
+    "adminjs": "^5.10.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.2",
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.7",
+    "tslib": "^2.4.0"
+  }
+}
